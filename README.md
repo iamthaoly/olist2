@@ -16,6 +16,7 @@ This is real commercial data, it has been anonymised, and references to the comp
 
 In this project, I plan to fuilfill the following tasks:
 1. Customer segmentation
-2. Sales prediction
-3. Customer reviews analysis
-4. Recommendation System
+2. Churn Prediction
+3. Sales prediction
+4. Customer reviews analysis
+5. Recommendation System
