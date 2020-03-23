@@ -15,8 +15,9 @@ This is real commercial data, it has been anonymised, and references to the comp
 ## Project Goals
 
 In this project, I plan to fuilfill the following tasks:
-1. Customer segmentation
-2. Churn Prediction
-3. Sales prediction
-4. Customer reviews analysis
-5. Recommendation System
+1. Customer Segmentation
+2. LTV Prediction
+3. Churn Prediction
+4. Sales Prediction
+5. Customer Reviews Analysis
+6. Recommendation System
